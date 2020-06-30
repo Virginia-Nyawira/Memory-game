@@ -1,6 +1,6 @@
-# mayap
+# Flutter Memory game
 
-A new Flutter application.
+A simple,enjoyable Flutter game that helps one know how good they are at remembering different images.
 
 ## Getting Started
 
