@@ -1,6 +1,7 @@
 # Flutter Memory game
 
 A simple,enjoyable Flutter game that helps one know how good they are at remembering different images.
+
 ![mem_1](https://user-images.githubusercontent.com/40716176/86113802-63e3e680-bad2-11ea-8a18-08cc587dbc82.png)
 
 ## Getting Started
